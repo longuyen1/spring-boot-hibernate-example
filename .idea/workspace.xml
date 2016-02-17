@@ -4,8 +4,9 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ad31640-9a86-40ad-88ea-23cd08bf230d" name="Default" comment="">
+    <list default="true" id="7ad31640-9a86-40ad-88ea-23cd08bf230d" name="Default" comment="handling ignore files .idea">
       <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <list id="e39ca058-1a64-4938-b10a-223160181bf6" name="New changelist" comment="" />
     <ignored path="spring-hibernate-mysql-a.iws" />
@@ -169,9 +170,12 @@
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9269103">
-              <caret line="40" column="100" selection-start-line="40" selection-start-column="100" selection-end-line="40" selection-end-column="100" />
+            <state vertical-scroll-proportion="0.2195122">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -266,9 +270,9 @@
         <option value="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareMatrix.java" />
         <option value="$PROJECT_DIR$/application/src/test/java/dk/kimhrac/app/controllers/SoftwareMatrixDAOTest.java" />
         <option value="$PROJECT_DIR$/spring-hibernate-mysql/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/spring-hibernate-mysql/.gitignore" />
         <option value="$PROJECT_DIR$/application/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -972,7 +976,7 @@
       <workItem from="1428999387450" duration="1378000" />
       <workItem from="1429000835744" duration="4847000" />
       <workItem from="1429006054418" duration="5359000" />
-      <workItem from="1455683304214" duration="1349000" />
+      <workItem from="1455683304214" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="handling ignore files">
       <created>1455683452782</created>
@@ -1004,11 +1008,17 @@
       <option name="project" value="LOCAL" />
       <updated>1455684468649</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="handling ignore files .idea">
+      <created>1455684664758</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1455684664758</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14980000" />
+    <option name="totallyTimeSpent" value="15060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1261" height="784" extended-state="6" />
@@ -1063,9 +1073,9 @@
       <path value="$PROJECT_DIR$/__MACOSX/spring-hibernate-mysql-a" />
     </ignored-roots>
     <MESSAGE value="handling ignore files" />
-    <MESSAGE value="handling ignore files .idea" />
     <MESSAGE value="- handling ignore files&#10;- Updating read me file" />
-    <option name="LAST_COMMIT_MESSAGE" value="- handling ignore files&#10;- Updating read me file" />
+    <MESSAGE value="handling ignore files .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="handling ignore files .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1461,9 +1471,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9269103">
-          <caret line="40" column="100" selection-start-line="40" selection-start-column="100" selection-end-line="40" selection-end-column="100" />
+        <state vertical-scroll-proportion="0.2195122">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding />
         </state>
       </provider>

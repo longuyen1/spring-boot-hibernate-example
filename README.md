@@ -1,5 +1,3 @@
-# spring-boot-hibernate-example
-
 # ======================
 #  Application overview
 # ======================
