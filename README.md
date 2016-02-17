@@ -1,6 +1,4 @@
-# ======================
 #  Application overview
-# ======================
 
 Folder 'application':
 
