@@ -5,138 +5,149 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ad31640-9a86-40ad-88ea-23cd08bf230d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/src/test/java/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/src/test/resources/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/AbstractEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/test/java/dk/kimhrac/app/controllers/ControllerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/controllers/KimhracController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/controllers/MainController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_8_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_8_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_2_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_9_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_7_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/src/test/java/dk/kimhrac/app/controllers/SoftwareMatrixDAOTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/myapplication.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/myservice.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-hibernate-mysql-a.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\application\src\main\java\myapplication\MyApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\main\java\dk\kimhrac\app\implementations\DeviceHwVersionImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\AllTests.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\DeviceHwVersionTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\DeviceSoftwareMapTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\DeviceTypeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\LocaleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\PartnerTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\PredecessorReleaseMapTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\SoftwareComponentTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\SoftwareMatrixTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\SoftwareTypeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\SystemLocaleMapTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\SystemReleaseTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\SystemSoftwareMapTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\mylab\spring-hibernate-mysql-a\spring-hibernate-mysql\src\test\java\dk\kimhrac\app\entity\SystemTypeTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/DeviceHwVersion.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/DeviceHwVersion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceHwVersionDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceHwVersionDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/DeviceSoftwareMap.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/DeviceSoftwareMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceSoftwareMapDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceSoftwareMapDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/DeviceType.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/DeviceType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceTypeDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceTypeDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/Locale.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/Locale.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/LocaleDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/LocaleDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/Partner.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/Partner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/PartnerDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/PartnerDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/PredecessorReleaseMap.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/PredecessorReleaseMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/PredecessorReleaseMapDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/PredecessorReleaseMapDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareComponent.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareComponent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareComponentDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareComponentDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareMatrix.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareMatrix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareMatrixDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareMatrixDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareType.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareTypeDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareTypeDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemLocaleMap.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemLocaleMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemLocaleMapDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemLocaleMapDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemRelease.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemRelease.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemReleaseDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemReleaseDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemSoftwareMap.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemSoftwareMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemSoftwareMapDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemSoftwareMapDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemType.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemTypeDAO.java" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemTypeDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/pom.xml" afterPath="$PROJECT_DIR$/application/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/pom.xml" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/pom.xml" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\checkstyle-idea.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\findbugs-idea.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_4_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_4_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__javax_persistence_persistence_api_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__javax_transaction_javax_transaction_api_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__junit_junit_4_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_34.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_apache_tomcat_tomcat_jdbc_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_apache_tomcat_tomcat_juli_8_0_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_aspectj_aspectjrt_1_8_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_hibernate_hibernate_core_4_3_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_4_3_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_aop_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_data_spring_data_commons_1_9_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_data_spring_data_jpa_1_7_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_aspects_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_jdbc_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_orm_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_test_4_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_test_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_tx_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__org_yaml_snakeyaml_1_14.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\qaplug_profiles.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\checkstyle-idea.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\findbugs-idea.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\qaplug_profiles.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.project" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\.settings\org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\application\myapplication.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\checkstyle-idea.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\findbugs-idea.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__javax_persistence_persistence_api_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_hibernate_hibernate_core_4_3_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_4_3_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\qaplug_profiles.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.project" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\.settings\org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\myservice.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\spring-hibernate-mysql\spring-hibernate-mysql.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\target\MANIFEST.MF" afterPath="" />
     </list>
+    <list id="e39ca058-1a64-4938-b10a-223160181bf6" name="New changelist" comment="" />
     <ignored path="spring-hibernate-mysql-a.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/application/target/" />
     <ignored path="$PROJECT_DIR$/spring-hibernate-mysql/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".idea/dataSources.local.xml" />
+    <ignored path=".idea/" />
+    <ignored path="*.iml" />
+    <ignored path=".*" />
+    <ignored path=".*/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,9 +159,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="spring-hibernate-mysql-a" />
@@ -160,7 +168,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.12" vertical-offset="0" max-vertical-offset="864">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
               <folding />
             </state>
@@ -170,7 +178,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.4" vertical-offset="0" max-vertical-offset="1600">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding />
             </state>
@@ -180,7 +188,7 @@
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+            <state vertical-scroll-proportion="0.0">
               <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
@@ -190,7 +198,7 @@
       <file leaf-file-name="KimhracController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/controllers/KimhracController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1888">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding />
             </state>
@@ -200,24 +208,41 @@
       <file leaf-file-name="SoftwareMatrixDAOTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/src/test/java/dk/kimhrac/app/controllers/SoftwareMatrixDAOTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1344" max-vertical-offset="2432">
+            <state vertical-scroll-proportion="0.0">
               <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#1267#1268#0" expanded="true" />
                 <element signature="e#1312#1313#0" expanded="true" />
-                <element signature="e#3645#3660#0" expanded="true" />
-                <marker date="1429010714154" expanded="true" signature="1466:1502" placeholder="SELECT COUNT..SOFTWARE_MATRIX..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45128205" vertical-offset="0" max-vertical-offset="752">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.029900333">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -226,7 +251,7 @@
       <file leaf-file-name="SoftwareMatrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3952">
+            <state vertical-scroll-proportion="0.0">
               <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
               <folding>
                 <element signature="e#3601#3602#0" expanded="true" />
@@ -239,7 +264,7 @@
       <file leaf-file-name="SystemRelease.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemRelease.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="35" max-vertical-offset="3312">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
@@ -249,7 +274,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.12" vertical-offset="0" max-vertical-offset="1440">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding />
             </state>
@@ -260,6 +285,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -287,14 +317,25 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="width" value="1261" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -321,220 +362,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-hibernate-mysql-a" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -569,7 +396,70 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-hibernate-mysql-a" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-hibernate-mysql-a" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-hibernate-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-hibernate-mysql-a" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-hibernate-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-hibernate-mysql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-hibernate-mysql-a" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-hibernate-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MySQL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-hibernate-mysql-a" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-hibernate-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -583,6 +473,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -710,33 +603,10 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -759,25 +629,34 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
-      <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -791,6 +670,143 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <envs />
       <method />
@@ -832,125 +848,10 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
     <list size="4">
@@ -975,6 +876,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7ad31640-9a86-40ad-88ea-23cd08bf230d" name="Default" comment="" />
+      <changelist id="e39ca058-1a64-4938-b10a-223160181bf6" name="New changelist" comment="" />
       <created>1428997277152</created>
       <option name="number" value="Default" />
       <updated>1428997277152</updated>
@@ -983,46 +885,54 @@
       <workItem from="1428999387450" duration="1378000" />
       <workItem from="1429000835744" duration="4847000" />
       <workItem from="1429006054418" duration="5359000" />
+      <workItem from="1455683304214" duration="699000" />
     </task>
+    <task id="LOCAL-00001" summary="handling ignore files">
+      <created>1455683452782</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1455683452782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13631000" />
+    <option name="totallyTimeSpent" value="14330000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1261" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2982456" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32663316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24937657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39865997" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2998325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32663316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39865997" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39865997" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1038,12 +948,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
     <ignored-roots>
       <path value="$PROJECT_DIR$/__MACOSX/spring-hibernate-mysql-a" />
     </ignored-roots>
+    <MESSAGE value="handling ignore files" />
+    <option name="LAST_COMMIT_MESSAGE" value="handling ignore files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1060,37 +969,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/LocaleDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="384">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="688">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceSoftwareMapDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="368">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1098,17 +986,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/LocaleDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="384">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="685" max-vertical-offset="1216">
+        <state vertical-scroll-proportion="0.0">
           <caret line="69" column="19" selection-start-line="17" selection-start-column="2" selection-end-line="69" selection-end-column="19" />
           <folding />
         </state>
@@ -1116,7 +1001,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="128" max-vertical-offset="1520">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding />
         </state>
@@ -1124,7 +1009,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="288">
+        <state vertical-scroll-proportion="0.0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -1132,25 +1017,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceSoftwareMapDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareComponentDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="384">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="704">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding />
         </state>
@@ -1158,7 +1039,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="448">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding />
         </state>
@@ -1166,227 +1047,182 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/LocaleDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="384">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemTypeDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="384">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceHwVersionDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="320">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/DeviceHwVersion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.9.2.RELEASE/spring-data-commons-1.9.2.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4117647" vertical-offset="0" max-vertical-offset="576">
+        <state vertical-scroll-proportion="0.4117647">
           <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/PartnerDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/DeviceSoftwareMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1220" max-vertical-offset="1776">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/Partner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1776">
+        <state vertical-scroll-proportion="0.0">
           <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceHwVersionDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/PredecessorReleaseMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="1616">
+        <state vertical-scroll-proportion="0.0">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemLocaleMapDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/PredecessorReleaseMapDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1876" max-vertical-offset="2912">
+        <state vertical-scroll-proportion="0.0">
           <caret line="172" column="42" selection-start-line="172" selection-start-column="42" selection-end-line="172" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1316" max-vertical-offset="1872">
+        <state vertical-scroll-proportion="0.0">
           <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemSoftwareMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="736" max-vertical-offset="1792">
+        <state vertical-scroll-proportion="0.0">
           <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareMatrixDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/test/java/dk/kimhrac/app/controllers/ControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1792">
+        <state vertical-scroll-proportion="0.0">
           <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2152#2167#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql-a.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61862916" vertical-offset="2304" max-vertical-offset="3456">
-          <caret line="166" column="55" selection-start-line="166" selection-start-column="55" selection-end-line="166" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/Locale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2240">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="29" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SystemTypeDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/controllers/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceTypeDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/DeviceSoftwareMapDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/LocaleDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareComponentDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/interfaces/SoftwareTypeDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/controllers/KimhracController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1888">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding />
         </state>
@@ -1394,7 +1230,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+        <state vertical-scroll-proportion="0.0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -1402,39 +1238,35 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.2.RELEASE/spring-test-4.1.2.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2666667" vertical-offset="2092" max-vertical-offset="2752">
+        <state vertical-scroll-proportion="1.2666667">
           <caret line="198" column="5" selection-start-line="198" selection-start-column="5" selection-end-line="198" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4" vertical-offset="50" max-vertical-offset="416">
+        <state vertical-scroll-proportion="-4.4">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.6.RELEASE/spring-test-4.1.6.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.24" vertical-offset="198" max-vertical-offset="816">
+        <state vertical-scroll-proportion="-4.24">
           <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/spring-hibernate-mysql-a/spring-hibernate-mysql/src/test/java/dk/kimhrac/app/controllers/ControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79949874" vertical-offset="1153" max-vertical-offset="1600">
+        <state vertical-scroll-proportion="0.79949874">
           <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.12" vertical-offset="0" max-vertical-offset="1440">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding />
         </state>
@@ -1442,7 +1274,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.12" vertical-offset="0" max-vertical-offset="864">
+        <state vertical-scroll-proportion="0.0">
           <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
           <folding />
         </state>
@@ -1450,7 +1282,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4" vertical-offset="0" max-vertical-offset="1600">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
@@ -1458,7 +1290,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SystemRelease.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="35" max-vertical-offset="3312">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
@@ -1466,7 +1298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/java/dk/kimhrac/app/entity/SoftwareMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
           <folding>
             <element signature="e#3601#3602#0" expanded="true" />
@@ -1477,22 +1309,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/test/java/dk/kimhrac/app/controllers/SoftwareMatrixDAOTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1344" max-vertical-offset="2432">
+        <state vertical-scroll-proportion="0.0">
           <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#1267#1268#0" expanded="true" />
             <element signature="e#1312#1313#0" expanded="true" />
-            <element signature="e#3645#3660#0" expanded="true" />
-            <marker date="1429010714154" expanded="true" signature="1466:1502" placeholder="SELECT COUNT..SOFTWARE_MATRIX..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45128205" vertical-offset="0" max-vertical-offset="752">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029900333">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
