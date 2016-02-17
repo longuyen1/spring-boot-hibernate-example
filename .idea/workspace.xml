@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ad31640-9a86-40ad-88ea-23cd08bf230d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-hibernate-mysql/.gitignore" afterPath="$PROJECT_DIR$/spring-hibernate-mysql/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="D:\mylab\spring-boot-hibernate-example\.idea\workspace.xml" afterPath="" />
     </list>
     <list id="e39ca058-1a64-4938-b10a-223160181bf6" name="New changelist" comment="" />
     <ignored path="spring-hibernate-mysql-a.iws" />
@@ -67,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KimhracController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KimhracController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/controllers/KimhracController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0498338">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding />
             </state>
@@ -169,11 +167,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.9269103">
+              <caret line="40" column="100" selection-start-line="40" selection-start-column="100" selection-end-line="40" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -974,7 +972,7 @@
       <workItem from="1428999387450" duration="1378000" />
       <workItem from="1429000835744" duration="4847000" />
       <workItem from="1429006054418" duration="5359000" />
-      <workItem from="1455683304214" duration="1121000" />
+      <workItem from="1455683304214" duration="1349000" />
     </task>
     <task id="LOCAL-00001" summary="handling ignore files">
       <created>1455683452782</created>
@@ -1000,11 +998,17 @@
       <option name="project" value="LOCAL" />
       <updated>1455684412183</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- handling ignore files&#10;- Updating read me file">
+      <created>1455684468649</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1455684468649</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14752000" />
+    <option name="totallyTimeSpent" value="14980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1261" height="784" extended-state="6" />
@@ -1414,14 +1418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-hibernate-mysql/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1458,8 +1454,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/java/dk/kimhrac/app/controllers/KimhracController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0498338">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9269103">
+          <caret line="40" column="100" selection-start-line="40" selection-start-column="100" selection-end-line="40" selection-end-column="100" />
           <folding />
         </state>
       </provider>
