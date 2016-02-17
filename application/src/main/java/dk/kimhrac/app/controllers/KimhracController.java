@@ -17,6 +17,9 @@ import java.util.Date;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
+/**
+ * @author longnguyenk 
+ */
 @Controller
 public class KimhracController {
 
